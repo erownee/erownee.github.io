@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "erownee"
-  avatar           : "assets/images/bio-photo.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/avatar.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "화성출신 독일남 카누"
   location         : "Korea Seoul Guro"
   email            : "www.shjeong@gmail.com"
