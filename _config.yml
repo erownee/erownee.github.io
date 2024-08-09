@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko-KR"
@@ -31,8 +31,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
-copyright                : "copyright skipper. erownee" #name, defaults to site.title
-copyright_url            : "https://jelect.com" #"copyright" URL, defaults to site.url
+copyright                : "copyright Kanu erownee" #name, defaults to site.title
+copyright_url            : "https://sellmonc.com" #"copyright" URL, defaults to site.url
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -117,7 +117,7 @@ author:
   avatar           : "assets/images/avatar.jpg" #path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "화성출신 독일남 카누"
   location         : "Korea Seoul Guro"
-  email            : "www.shjeong@gmail.com"
+  # email            : "www.shjeong@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
